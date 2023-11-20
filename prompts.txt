@@ -1,0 +1,12 @@
+write a python function named generate_random_graph to generate a random graph that takes following parameters:
+i. nums_nodes: no of nodes
+ii. nums_edges: no of edges
+iii. directed: if True directed graph else undirected; default false
+iv. weighted: if True weighted edges (1-20) else unweighted; default false
+v. save: if True
+vi. display: if True
+
+Also:
+i. Add check for maximum possible number of edges.
+ii. while display, print arrows only if directed graph 
+iii. return adjacency list 
